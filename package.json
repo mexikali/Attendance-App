@@ -1,0 +1,14 @@
+{
+  "name": "attendance-app",
+  "version": "1.0.0",
+  "description": "Desktop application that performs attendance operations and uses RFID",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Ömer Faruk Sezen",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^34.0.1"
+  }
+}
