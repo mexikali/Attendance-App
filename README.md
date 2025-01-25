@@ -4,7 +4,7 @@
 
 <h2>System Architecture</h2>
 <p>Below is the system architecture diagram:</p>
-<p><img src="https://github.com/mexikali/Attendance-App/blob/main/plan.jpg" alt="System Architecture"></p>
+<p><img src="https://github.com/mexikali/Attendance-App/blob/main/plan.jpg" alt="System Architecture" style="text-align: center;"></p>
 
 <h2>Technologies Used</h2>
 <ul>
