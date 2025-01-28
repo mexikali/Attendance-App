@@ -1,0 +1,12 @@
+.icon-class{
+    width: 20px;
+    height: 20px;
+}
+
+#btnLogin, #btnRegister{
+    cursor: pointer;
+}
+
+.btn-class:hover{
+    transform: scale(1.25);
+}
